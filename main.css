@@ -12,12 +12,3 @@ div[class="_aigv _aigw"] {
   min-width: min-content !important;
   overflow: auto !important;
 }
-
-div[class="_aigv _aigw _aigx"] {
-  flex: 0 0 100% !important;
-  max-width: 100% !important;
-}
-
-html[id="whatsapp-web"] {
-  overflow-y: hidden !important;
-}
