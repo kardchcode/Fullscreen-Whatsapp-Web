@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Fullscreen WhatsApp Web",
+    "description": "Extends the whatsapp web app to cover the full screen & let's you resize the chats tab.",
+    "icons": { "48" : "icon.png" },
+    "version": "1.0",
+    "homepage_url": "https://github.com/kardchcode/Fullscreen-Whatsapp-Web",
+
+    "content_scripts": [{
+            "matches": ["https://web.whatsapp.com/*"],
+            "css": ["main.css"]
+    }]
+}
