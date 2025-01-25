@@ -1,9 +1,10 @@
 # Fullscreen WhatsApp Web
 
-This extension is a modified verison of the original one by @shreyash-b (and other contributors) that adds some personal tweaks to the web app. 
-It aims to improve the whatsapp web experience (for me at least) by not only displaying the app content in fullscreen (like it should by default), but also letting the user resize the chats sidebar. Additionaly it makes the side-panel menus (like config or profile) appear in fullscreen rather than only covering the left side of the screen. 
-
-The extension should work on any chromium based browser such as Chrome, Brave, Opera, Edge... 
+<img src="icon.png" align="left" width="74"/>
+Based on the original verison by <a href="https://github.com/shreyash-b">@shreyash-b</a>, this extension aims to improve the whatsapp 
+web experience by not only displaying the app content in fullscreen, but also letting the user resize the chats sidebar!<br/>
+<sub>Should work on any chromium based browser (Chrome, Brave, Opera, Edge...)</sub>
+<br clear="left"/>
 
 ## Installation Instructions:
 - [Download](https://codeload.github.com/kardchcode/Fullscreen-Whatsapp-Web/zip/refs/heads/main) this repo and extract it somewhere safe
