@@ -1,3 +1,7 @@
+### As of today, the latest whatsapp-web update makes this extension useless, since meta devs "fixed" the fullscreen display of the site (finally).
+
+<br/>
+
 # Fullscreen WhatsApp Web
 
 <img src="icon.png" align="left" width="72"/>
